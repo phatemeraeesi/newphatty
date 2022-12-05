@@ -1,4 +1,4 @@
-Mahsa pakniyat:
+phatemeraeesi:
 from collections import Counter
 num_k =str(input(""))
 num_h = str(input(""))
